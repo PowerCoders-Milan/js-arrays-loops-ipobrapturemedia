@@ -1,4 +1,7 @@
 // define an array with 5 elements
-const array = [];
+const cities = ['frankfurt','madrid', 'beiging', 'oslo', 'paris'];
 // console.log() the 3rd element
-console.log();
+cities [3] = 'beiging';
+console.log ('beiging');
+
+
